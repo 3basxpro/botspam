@@ -1,2 +1,1 @@
 # botspam
-botspam
