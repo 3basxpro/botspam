@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("549902395078082562")
+let channel =     client.channels.get("560014192208510996")
 setInterval(function() {
-channel.send(`اف اف يالسبام حرريقة كريدت يجي بالهبل اف اف يالكريدت اللي يستناني`);
+channel.send(`عباس هنا هههههههههههههههههههههههههههههههههه`);
 }, 30)
 })
 
